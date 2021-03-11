@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': '陳冠宇和黃翊銘的分組網站', 'text': '連結 \n \n', 'tags': '', 'url': '陳冠宇和黃翊銘的分組網站.html'}]};
+var tipuesearch = {"pages": [{'title': '陳冠宇和黃翊銘的分組網站', 'text': '連結 \n \n', 'tags': '', 'url': '陳冠宇和黃翊銘的分組網站.html'}, {'title': '進度', 'text': '3月4日 \n 討論基礎外型及功能 \n 3/5第一次大改版 \n', 'tags': '', 'url': '進度.html'}]};
