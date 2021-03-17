@@ -35,6 +35,9 @@
 <v t="leo.20200818195147.1"><vh>slide 17</vh>
 <v t="leo.20200818194721.1"><vh>slide 11</vh></v>
 <v t="leo.20200818194751.1"><vh>slide 12</vh></v>
+<v t="leo.20200818195502.1"><vh>slide 21</vh></v>
+<v t="leo.20200818195520.1"><vh>slide 22</vh></v>
+<v t="leo.20200818195541.1"><vh>slide 23</vh></v>
 </v>
 <v t="leo.20200818195403.1"><vh>slide 18</vh>
 <v t="leo.20200818194812.1"><vh>slide 13</vh></v>
@@ -53,9 +56,6 @@
 <v t="leo.20200818171312.1"><vh>slide 8</vh></v>
 <v t="leo.20200818171344.1"><vh>slide 9</vh></v>
 <v t="leo.20200818171412.1"><vh>slide 10</vh></v>
-<v t="leo.20200818195502.1"><vh>slide 21</vh></v>
-<v t="leo.20200818195520.1"><vh>slide 22</vh></v>
-<v t="leo.20200818195541.1"><vh>slide 23</vh></v>
 <v t="leo.20200818195604.1"><vh>slide 24</vh></v>
 <v t="leo.20200818195625.1"><vh>slide 25</vh></v>
 <v t="leo.20200818195643.1"><vh>slide 26</vh></v>
@@ -548,54 +548,18 @@ vertical: body pane on the botton</t>
     @others
 &lt;/section&gt;</t>
 <t tx="leo.20200818195502.1">&lt;section&gt;
-    &lt;h2&gt;Fantastic Ordered List&lt;/h2&gt;
-    &lt;ol&gt;
-        &lt;li&gt;One is smaller than...&lt;/li&gt;
-        &lt;li&gt;Two is smaller than...&lt;/li&gt;
-        &lt;li&gt;Three!&lt;/li&gt;
-    &lt;/ol&gt;
+&lt;p&gt;&lt;img alt="" height="382" src="blob:https://localhost:9443/175ef010-e66b-4ef4-93a4-eb784c131483" width="511"&gt;&lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818195520.1">&lt;section&gt;
-    &lt;h2&gt;Tabular Tables&lt;/h2&gt;
-    &lt;table&gt;
-        &lt;thead&gt;
-            &lt;tr&gt;
-                &lt;th&gt;Item&lt;/th&gt;
-                &lt;th&gt;Value&lt;/th&gt;
-                &lt;th&gt;Quantity&lt;/th&gt;
-            &lt;/tr&gt;
-        &lt;/thead&gt;
-        &lt;tbody&gt;
-            &lt;tr&gt;
-                &lt;td&gt;Apples&lt;/td&gt;
-                &lt;td&gt;$1&lt;/td&gt;
-                &lt;td&gt;7&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-                &lt;td&gt;Lemonade&lt;/td&gt;
-                &lt;td&gt;$2&lt;/td&gt;
-                &lt;td&gt;18&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-                &lt;td&gt;Bread&lt;/td&gt;
-                &lt;td&gt;$3&lt;/td&gt;
-                &lt;td&gt;2&lt;/td&gt;
-            &lt;/tr&gt;
-        &lt;/tbody&gt;
-    &lt;/table&gt;
+   &lt;p&gt;&lt;img alt="" height="520" src="blob:https://localhost:9443/5260bfc0-d3c6-420f-bbb2-1f8a1fa64854" width="337"&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818195541.1">&lt;section&gt;
-    &lt;h2&gt;Clever Quotes&lt;/h2&gt;
-    &lt;p&gt;
-        These guys come in two forms, inline: &lt;q cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations"&gt;The nice thing about standards is that there are so many to choose from&lt;/q&gt; and block:
-    &lt;/p&gt;
-    &lt;blockquote cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations"&gt;
-        &amp;ldquo;For years there has been a theory that millions of monkeys typing at random on millions of typewriters would
-        reproduce the entire works of Shakespeare. The Internet has proven this theory to be untrue.&amp;rdquo;
-    &lt;/blockquote&gt;
+   &lt;p&gt;我們的想法是:把一張椅子變形成桌子，藉由摺疊的方式，自由變換型態。&lt;/p&gt;
+&lt;p&gt;中間遇到最大的問題是桌面的拼接方式以及中間的接合處間隙，我們從5種拼接方式中選擇&lt;/p&gt;
+&lt;p&gt;最合適且最好設計的形狀(在第三周顯示)，再來設計尺寸。&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818195604.1">&lt;section&gt;
