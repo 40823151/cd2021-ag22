@@ -394,18 +394,17 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818194751.1">&lt;h2&gt;製作過程&lt;/h2&gt;
+<t tx="leo.20200818194751.1">&lt;section&gt;
+&lt;h2&gt;製作過程&lt;/h2&gt;
 &lt;p&gt;第一次的產品設計。&lt;/p&gt;
 &lt;p&gt;本次設計的理念最主要是以&lt;span&gt;實用&lt;/span&gt;為主，其次為&lt;span&gt;可行性&lt;/span&gt;。因此往傢俱的方向去構思&lt;/p&gt;
 &lt;p&gt;似乎是個不錯的想法？&lt;/p&gt;
 &lt;p&gt;最近看到摺疊傢俱豐富多變，設計一個具備兩種功能的傢俱，以實用性來說非常不錯。&lt;/p&gt;
 &lt;p&gt;一開始用google meeting討論雛形，組員各自畫出自己的想法，將想法合併，探討其&lt;/p&gt;
 &lt;p&gt;中是否存在衝突或是錯誤。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="520" src="blob:https://localhost:9443/7031cbed-0210-4c70-82fa-e86c01452e6f" width="337"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="382" src="blob:https://localhost:9443/62860c88-9863-4151-8046-57b1da1a0094" width="511"&gt;&lt;/p&gt;
-&lt;p&gt;我們的想法是:把一張椅子變形成桌子，藉由摺疊的方式，自由變換型態。&lt;/p&gt;
-&lt;p&gt;中間遇到最大的問題是桌面的拼接方式以及中間的接合處間隙，我們從5種拼接方式中選擇&lt;/p&gt;
-&lt;p&gt;最合適且最好設計的形狀(在第三周顯示)，再來設計尺寸。&lt;/p&gt;</t>
+
+
+&lt;/section&gt;</t>
 <t tx="leo.20200818194812.1">&lt;section&gt;
 &lt;h1&gt;w3&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;成品最後測試及較驗&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
