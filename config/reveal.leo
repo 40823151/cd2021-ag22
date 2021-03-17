@@ -257,23 +257,10 @@ vertical: body pane on the botton</t>
     &lt;p&gt;還不快來贊助我們!!!&lt;/p&gt;
     &lt;p&gt;phone NO. 0983625896&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
-    &lt;h2 data-id="code-title"&gt;Pretty Code&lt;/h2&gt;
-    &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers&gt;
-        import React, { useState } from 'react';
-
-        function Example() {
-          const [count, setCount] = useState(0);
-
-          return (
-            ...
-          );
-        }
-    &lt;/code&gt;&lt;/pre&gt;
-    &lt;p&gt;Code syntax highlighting courtesy of &lt;a href="https://highlightjs.org/usage/"&gt;highlight.js&lt;/a&gt;.&lt;/p&gt;
-&lt;/section&gt;
-
-</t>
+<t tx="leo.20200818171138.1">&lt;h1&gt;w1&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;討論產品定位&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;建立個人及團隊網站&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</t>
 <t tx="leo.20200818171215.1">&lt;section data-auto-animate&gt;
     &lt;h2 data-id="code-title"&gt;With animations&lt;/h2&gt;
     &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers="|4,8-11|17|22-24"&gt;
