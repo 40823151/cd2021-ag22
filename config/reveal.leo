@@ -31,10 +31,11 @@
 <v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
 <v t="leo.20200818171312.1"><vh>slide 8</vh></v>
 <v t="leo.20200818171344.1"><vh>slide 9</vh></v>
-</v>
 <v t="leo.20200818171412.1"><vh>slide 10</vh></v>
-<v t="leo.20200818194721.1"><vh>slide 11</vh></v>
+</v>
+<v t="leo.20200818194721.1"><vh>slide 11</vh>
 <v t="leo.20200818194751.1"><vh>slide 12</vh></v>
+</v>
 <v t="leo.20200818194812.1"><vh>slide 13</vh>
 <v t="leo.20200818194908.1"><vh>slide 13-1</vh></v>
 <v t="leo.20200818194933.1"><vh>slide 13-2</vh></v>
@@ -279,20 +280,87 @@ vertical: body pane on the botton</t>
 &lt;p&gt;再去到小黑 打上下圖將其clone 下來&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" height="239" src="https://40823151.github.io/cd2021/images/%E5%9C%96%E7%89%877.png" width="500\"&gt;&lt;/p&gt;
 &lt;p&gt;即完成網站建構&lt;/p&gt;</t>
-<t tx="leo.20200818171244.1">&lt;section&gt;
-    &lt;h2&gt;Point of View&lt;/h2&gt;
-    &lt;p&gt;
-        Press &lt;strong&gt;ESC&lt;/strong&gt; to enter the slide overview.
-    &lt;/p&gt;
-    &lt;p&gt;
-        Hold down the &lt;strong&gt;alt&lt;/strong&gt; key (&lt;strong&gt;ctrl&lt;/strong&gt; in Linux) and click on any element to zoom towards it using &lt;a href="http://lab.hakim.se/zoom-js"&gt;zoom.js&lt;/a&gt;. Click again to zoom back out.
-    &lt;/p&gt;
-    &lt;p&gt;
-        (NOTE: Use ctrl + click in Linux.)
-    &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
+<t tx="leo.20200818171244.1">&lt;h2&gt;建立ssh&lt;/h2&gt;
+&lt;p&gt;首先將小黑編輯器打開並寫打上:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://40823151.github.io/cd2021/images/ssh%201.png" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;打上&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;ssh-keygen -t rsa -b 4096 -C "使用者學號"&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://40823151.github.io/cd2021/images/ssh%202.png" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;第二行為鑰使儲存位置&lt;/p&gt;
+&lt;p&gt;下一行為輸入密碼&lt;/p&gt;
+&lt;p&gt;再次輸入密碼&lt;/p&gt;
+&lt;p&gt;即可獲得要鑰使&lt;/p&gt;
+&lt;p&gt;在鑰使儲存位置會找到兩個檔案(上為private key 下為 public key)&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://40823151.github.io/cd2021/images/ssh%203.png" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;(3)&lt;/p&gt;
+&lt;p&gt;下載putty工具&lt;/p&gt;
+&lt;p&gt;會有以下檔案&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;img alt="" height="303" src="https://40823151.github.io/cd2021/images/ssh%204.png" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;利用puttygen.exe&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="119" src="https://40823151.github.io/cd2021/images/ssh%205.png" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;打開後會發現下圖視窗&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="452" src="https://40823151.github.io/cd2021/images/ssh%206.png" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;按下load&lt;/p&gt;
+&lt;p&gt;將剛才的鑰使開啟&lt;/p&gt;
+&lt;p&gt;將 id_rsa 轉為 Putty 可以解讀的 .ppk 格式&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;選擇所使用的鑰使&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="390" src="https://40823151.github.io/cd2021/images/ssh%207.png" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;得下圖&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;img alt="" height="452" src="https://40823151.github.io/cd2021/images/ssh%208.png" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;以私人的形式儲存鑰使&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="113" src="https://40823151.github.io/cd2021/images/ssh%209.png" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;(4)&lt;/p&gt;
+&lt;p&gt;在github 的settings中找到SSH and GPD keys&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="303" src="https://40823151.github.io/cd2021/images/ssh%2010.png" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;新增鑰使&lt;/p&gt;
+&lt;p&gt;將id_rsa.pub的內容&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="629" src="https://40823151.github.io/cd2021/images/ssh%2011.png" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;複製到&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="242" src="https://40823151.github.io/cd2021/images/ssh%2012.png" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;並且創建一把鑰使&lt;/p&gt;
+&lt;p&gt;(5)&lt;/p&gt;
+&lt;p&gt;修改啟動的 start.bat 加入下列設定&lt;/p&gt;
+&lt;p&gt;set GIT_SSH=%Disk%:\putty\plink.exe&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="81" src="https://40823151.github.io/cd2021/images/ssh%2013.png" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;(6)&lt;/p&gt;
+&lt;p&gt;home 下的 .ssh 目錄中多新增 config 並且內容如下&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;img alt="" height="277" src="https://40823151.github.io/cd2021/images/ssh%2014.png" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;# no proxy at home&lt;/p&gt;
+&lt;p&gt;#ProxyCommand y:/PortableGit/mingw64/bin/connect.exe -H proxy.mde.nfu.edu.tw:3128 %h %p&lt;/p&gt;
+&lt;p&gt;# set git_ssh=y:/putty/plink.exe with auth under putty github.com session setup&lt;/p&gt;
+&lt;p&gt;ProxyCommand y:/putty/plink.exe github.com %h %p&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Host github.com&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;User git&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Port 22&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Hostname github.com&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;# for connect.exe need openssh key format&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;#IdentityFile "y:\home\.ssh\id_rsa_mdecourse"&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;# for plink.exe need rsa key format but set under putty github.com session&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;# plink.exe do not need the following setting&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;#IdentityFile "y:\home\.ssh\mdecourse_putty_private.ppk"&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;TCPKeepAlive yes&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;IdentitiesOnly yes&lt;/p&gt;
+&lt;p&gt;(7)&lt;/p&gt;
+&lt;p&gt;cad2020 倉儲中 .git 目錄下的 config 檔案中的連線協定, 由 https 改為採 ssh 連線&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;img alt="" height="439" src="https://40823151.github.io/cd2021/images/ssh%2015.png" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;(8)&lt;/p&gt;
+&lt;p&gt;點擊putty.exe&lt;/p&gt;
+&lt;p&gt;設定代理主機&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="303" src="https://40823151.github.io/cd2021/images/ssh%2016.png" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;建一個github.com並且save&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;img alt="" height="454" src="https://40823151.github.io/cd2021/images/ssh%2017.png" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;點擊proxy並設定&lt;/p&gt;
+&lt;p&gt;設定代理主機(Proxy)&amp;nbsp;(除非是IPV4 IPV6才要設定)&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;img alt="" height="452" src="https://40823151.github.io/cd2021/images/ssh%2018.png" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;設定Auth&lt;/p&gt;
+&lt;p&gt;設定SSH的&amp;nbsp;ppk private key (之前轉的APK)&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="450" src="https://40823151.github.io/cd2021/images/ssh%2019.png" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;並且按下open後，就可以透過近端的 .ppk private key 與 Github.com 上的 public key 對應, 無需輸入帳號密碼就可以進行 git push&lt;/p&gt;</t>
 <t tx="leo.20200818171312.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
     &lt;h2&gt;Auto-Animate&lt;/h2&gt;
     &lt;p&gt;Automatically animate matching elements across slides with &lt;a href="https://revealjs.com/auto-animate/"&gt;Auto-Animate&lt;/a&gt;.&lt;/p&gt;
@@ -323,99 +391,97 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818194721.1">&lt;section&gt;
-    &lt;h2&gt;Touch Optimized&lt;/h2&gt;
-    &lt;p&gt;
-        Presentations look great on touch devices, like mobile phones and tablets. Simply swipe through your slides.
-    &lt;/p&gt;
+&lt;h1&gt;w2&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;討論細部結構&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818194751.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-        ## Markdown support
-
-        Write content using inline or external Markdown.
-        Instructions and more info available in the [readme](https://revealjs.com/markdown/).
-
-        ```[]
-        &lt;section data-markdown&gt;
-          ## Markdown support
-
-          Write content using inline or external Markdown.
-          Instructions and more info available in the [readme](https://revealjs.com/markdown/).
-        &lt;/section&gt;
-        ```
-    &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818194812.1">&lt;section&gt;
-     @others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818194840.1">&lt;section id="transitions"&gt;
-    &lt;h2&gt;Transition Styles&lt;/h2&gt;
-    &lt;p&gt;
-        You can select from different transitions, like: &lt;br&gt;
-        &lt;a href="?transition=none#/transitions"&gt;None&lt;/a&gt; -
-        &lt;a href="?transition=fade#/transitions"&gt;Fade&lt;/a&gt; -
-        &lt;a href="?transition=slide#/transitions"&gt;Slide&lt;/a&gt; -
-        &lt;a href="?transition=convex#/transitions"&gt;Convex&lt;/a&gt; -
-        &lt;a href="?transition=concave#/transitions"&gt;Concave&lt;/a&gt; -
-        &lt;a href="?transition=zoom#/transitions"&gt;Zoom&lt;/a&gt;
-    &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818194908.1">&lt;section id="fragments"&gt;
-    &lt;h2&gt;Fragments&lt;/h2&gt;
-    &lt;p&gt;Hit the next arrow...&lt;/p&gt;
-    &lt;p class="fragment"&gt;... to step through ...&lt;/p&gt;
-    &lt;p&gt;&lt;span class="fragment"&gt;... a&lt;/span&gt; &lt;span class="fragment"&gt;fragmented&lt;/span&gt; &lt;span class="fragment"&gt;slide.&lt;/span&gt;&lt;/p&gt;
-
-    &lt;aside class="notes"&gt;
-        This slide has fragments which are also stepped through in the notes window.
-    &lt;/aside&gt;
-&lt;/section&gt;
- </t>
-<t tx="leo.20200818194933.1">&lt;section&gt;
-    &lt;h2&gt;Fragment Styles&lt;/h2&gt;
-    &lt;p&gt;There's different types of fragments, like:&lt;/p&gt;
-    &lt;p class="fragment grow"&gt;grow&lt;/p&gt;
-    &lt;p class="fragment shrink"&gt;shrink&lt;/p&gt;
-    &lt;p class="fragment fade-out"&gt;fade-out&lt;/p&gt;
-    &lt;p&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-right"&gt;fade-right, &lt;/span&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-up"&gt;up, &lt;/span&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-down"&gt;down, &lt;/span&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-left"&gt;left&lt;/span&gt;
-    &lt;/p&gt;
-    &lt;p class="fragment fade-in-then-out"&gt;fade-in-then-out&lt;/p&gt;
-    &lt;p class="fragment fade-in-then-semi-out"&gt;fade-in-then-semi-out&lt;/p&gt;
-    &lt;p&gt;Highlight &lt;span class="fragment highlight-red"&gt;red&lt;/span&gt; &lt;span class="fragment highlight-blue"&gt;blue&lt;/span&gt; &lt;span class="fragment highlight-green"&gt;green&lt;/span&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20200818195039.1">&lt;section id="themes"&gt;
-    &lt;h2&gt;Themes&lt;/h2&gt;
-    &lt;p&gt;
-        reveal.js comes with a few themes built in: &lt;br&gt;
-        &lt;!-- Hacks to swap themes after the page has loaded. Not flexible and only intended for the reveal.js demo deck. --&gt;
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/black.css'); return false;"&gt;Black (default)&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/white.css'); return false;"&gt;White&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/league.css'); return false;"&gt;League&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/sky.css'); return false;"&gt;Sky&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/beige.css'); return false;"&gt;Beige&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/simple.css'); return false;"&gt;Simple&lt;/a&gt; &lt;br&gt;
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/serif.css'); return false;"&gt;Serif&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/blood.css'); return false;"&gt;Blood&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/night.css'); return false;"&gt;Night&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/moon.css'); return false;"&gt;Moon&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/solarized.css'); return false;"&gt;Solarized&lt;/a&gt;
-    &lt;/p&gt;
-&lt;/section&gt;
-</t>
+<t tx="leo.20200818194751.1">&lt;h2&gt;製作過程&lt;/h2&gt;
+&lt;p&gt;第一次的產品設計。&lt;/p&gt;
+&lt;p&gt;本次設計的理念最主要是以&lt;span&gt;實用&lt;/span&gt;為主，其次為&lt;span&gt;可行性&lt;/span&gt;。因此往傢俱的方向去構思&lt;/p&gt;
+&lt;p&gt;似乎是個不錯的想法？&lt;/p&gt;
+&lt;p&gt;最近看到摺疊傢俱豐富多變，設計一個具備兩種功能的傢俱，以實用性來說非常不錯。&lt;/p&gt;
+&lt;p&gt;一開始用google meeting討論雛形，組員各自畫出自己的想法，將想法合併，探討其&lt;/p&gt;
+&lt;p&gt;中是否存在衝突或是錯誤。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="520" src="blob:https://localhost:9443/7031cbed-0210-4c70-82fa-e86c01452e6f" width="337"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="382" src="blob:https://localhost:9443/62860c88-9863-4151-8046-57b1da1a0094" width="511"&gt;&lt;/p&gt;
+&lt;p&gt;我們的想法是:把一張椅子變形成桌子，藉由摺疊的方式，自由變換型態。&lt;/p&gt;
+&lt;p&gt;中間遇到最大的問題是桌面的拼接方式以及中間的接合處間隙，我們從5種拼接方式中選擇&lt;/p&gt;
+&lt;p&gt;最合適且最好設計的形狀(在第三周顯示)，再來設計尺寸。&lt;/p&gt;</t>
+<t tx="leo.20200818194812.1">&lt;h1&gt;w3&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;成品最後測試及較驗&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;</t>
+<t tx="leo.20200818194840.1">&lt;h1&gt;成果&lt;/h1&gt;
+&lt;p&gt;這次我們的牛b產品不僅僅讓我們聊解到設計一項產品是多麼的不容易，也讓我們知道互相配合製作一項產品需要發揮各路人才的專長，經過日日夜夜的討論不一定有一個讓人滿意的結果，但在這時間內可以將產品定位做得如此完善也算是盡心盡力了，在這過程中也許有意見不合的地方，經過溝通與理解，不一定誰說的就一定是對的，將大家想到的想法接考慮進去，都是過程中不可或缺的一環&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;這次我們的產品開發製作的是多功能家具，照福了全大學生房間空間不夠的問題&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/TJldPSS9I8M"&gt;合體動畫&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/TJldPSS9I8M"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="800" src="https://40871106.github.io/cd2021/images/%E5%90%88%E9%AB%941.jpg" width="800"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="800" src="https://40871106.github.io/cd2021/images/%E5%90%88%E9%AB%942.jpg" width="800"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;展開&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="533" src="https://40871106.github.io/cd2021/images/%E5%B1%95%E9%96%8B2.jpg" width="800"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="533" src="https://40871106.github.io/cd2021/images/%E5%B1%95%E9%96%8B1.jpg" width="800"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/Bipjcm-zMrM"&gt;支架動畫&lt;/a&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/Bipjcm-zMrM"&gt;&lt;/iframe&gt;&lt;/p&gt;</t>
+<t tx="leo.20200818194908.1">&lt;h2&gt;應力分析&lt;/h2&gt;</t>
+<t tx="leo.20200818194933.1">&lt;h2&gt;成品細節&lt;/h2&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="380" src="https://40871106.github.io/cd2021/images/%E7%B8%BD%E7%B5%84%E5%90%88.jpg" width="609"&gt;&lt;/p&gt;
+&lt;p&gt;上圖為本次設計結果!!&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;經過一周的討論以及想法結合，成品已擬定完成，接著就是建模與組立。&lt;/p&gt;
+&lt;p&gt;總共有12個零件，以下為各零件之視圖:&lt;/p&gt;
+&lt;p&gt;第一件:支架中心&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="447" src="https://40871106.github.io/cd2021/images/%E6%94%AF%E6%9E%B6%E4%B8%AD%E5%BF%83.jpg" width="369"&gt;&lt;/p&gt;
+&lt;p&gt;第二件:連趕公件&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="460" src="https://40871106.github.io/cd2021/images/%E9%80%A3%E6%A1%BF%E5%85%AC%E4%BB%B6.jpg" width="329"&gt;&lt;/p&gt;
+&lt;p&gt;第三件:連桿母件&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="471" src="https://40871106.github.io/cd2021/images/%E9%80%A3%E6%A1%BF%E6%AF%8D%E4%BB%B6.jpg" width="386"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;第四件:接頭&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="331" src="https://40871106.github.io/cd2021/images/%E6%8E%A5%E9%A0%AD.jpg" width="395"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;第五件:短銷&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="333" src="https://40871106.github.io/cd2021/images/%E7%9F%AD%E9%8A%B7.jpg" width="447"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;第六件:長銷&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="465" src="https://40871106.github.io/cd2021/images/%E9%95%B7%E9%8A%B7.jpg" width="425"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;第七件:滑塊&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="359" src="https://40871106.github.io/cd2021/images/%E7%95%AB%E5%A1%8A.jpg" width="447"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;第八件:桌板&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="357" src="https://40871106.github.io/cd2021/images/%E6%9D%BF%E6%9D%90%E5%85%B1%E5%90%8C%E9%AB%941.jpg" width="507"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;第九件:桌板&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="368" src="https://40871106.github.io/cd2021/images/%E6%9D%BF%E6%9D%90%E5%85%B1%E5%90%8C%E9%AB%942.jpg" width="532"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;第十件:主樑&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="513" src="https://40871106.github.io/cd2021/images/%E5%85%B1%E5%90%8C%E9%AB%941.jpg" width="411"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;第十一件:主樑&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="493" src="https://40871106.github.io/cd2021/images/%E5%85%B1%E5%90%8C%E9%AB%942.jpg" width="453"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;第十二件:螺釘(ISO M2x5)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="281" src="https://40871106.github.io/cd2021/images/ISO%20M2x5.jpg" width="357"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;展開後的各個角度:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="458" src="https://40871106.github.io/cd2021/images/%E5%B1%95%E9%96%8B%E5%9C%961.jpg" width="517"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="499" src="https://40871106.github.io/cd2021/images/%E5%B1%95%E9%96%8B%E5%9C%963.jpg" width="520"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="437" src="https://40871106.github.io/cd2021/images/%E5%B1%95%E9%96%8B%E5%9C%962.jpg" width="513"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;桌面的拼接方式:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;從畫圈處看到，我們以錯開的方式接合&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="637" src="https://40871106.github.io/cd2021/images/%E9%B3%B3%E9%B3%B3.jpg" width="1174"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;支架合體&amp;amp;展開:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;連桿座之間的角度30度和60度，從上視圖看&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="485" src="https://40871106.github.io/cd2021/images/angle.jpg" width="696"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="516" src="https://40871106.github.io/cd2021/images/%E6%94%AF%E6%9E%B6%E5%90%88%E9%AB%94.jpg" width="416"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="416" src="https://40871106.github.io/cd2021/images/%E6%94%AF%E6%9E%B6%E5%B1%95%E9%96%8B%E5%9C%965.jpg" width="461"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="492" src="https://40871106.github.io/cd2021/images/%E6%94%AF%E6%9E%B6%E5%B1%95%E9%96%8B%E5%9C%964.jpg" width="558"&gt;&lt;/span&gt;&lt;/p&gt;</t>
+<t tx="leo.20200818195039.1">&lt;h1&gt;進度&lt;/h1&gt;
+&lt;p&gt;3月4日&lt;/p&gt;
+&lt;p&gt;討論基礎外型及功能&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/2eFuVMeH0Es"&gt;&lt;/iframe&gt;3/5第一次大改版&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;3月10日雛形&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/Lk2_Mjmkmt0"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;3月15號大討論&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/lQrQgFjG58E"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</t>
 <t tx="leo.20200818195105.1">&lt;section&gt;
-    @others
+    &lt;p&gt;thank you watching&lt;/p&gt;
 &lt;/section&gt;
 
 </t>
