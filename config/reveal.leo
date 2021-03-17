@@ -208,10 +208,11 @@ vertical: body pane on the botton</t>
     @others
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
-        &lt;p&gt;&lt;img alt="" height="225" src="/images/images.jpg" width="225"&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img alt="" height="225" src="https://40823151.github.io/stage1-ag22/reveal/index.html#/images/images.jpg" width="225"&gt;&lt;/p&gt;
     &lt;/a&gt;
     &lt;h3&gt;陳冠宇與黃翊銘的網站&lt;/h3&gt;
     &lt;p&gt;
+    &lt;small&gt;stage1-ag22&lt;/small&gt;
         &lt;small&gt;Created by &lt;a href="https://github.com/40823151/cd2021"&gt;陳冠宇&lt;/a&gt; and &lt;a href="https://github.com/40871106/cd2021"&gt;黃翊銘&lt;/a&gt;&lt;/small&gt;
     &lt;/p&gt;
 &lt;/section&gt;
