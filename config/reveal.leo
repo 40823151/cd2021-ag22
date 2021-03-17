@@ -259,7 +259,7 @@ vertical: body pane on the botton</t>
     &lt;p&gt;還不快來贊助我們!!!&lt;/p&gt;
     &lt;p&gt;phone NO. 0983625896&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20200818171138.1">&lt;h1&gt;w1&lt;/h1&gt;
+<t tx="leo.20200818171138.1">&lt;h2&gt;w1&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;討論產品定位&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;建立個人及團隊網站&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;</t>
