@@ -263,9 +263,10 @@ vertical: body pane on the botton</t>
 &lt;h2&gt;w1&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;討論產品定位&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;建立個人及團隊網站&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
+
 &lt;/section&gt;</t>
-<t tx="leo.20200818171215.1">&lt;h2&gt;建立cmstemplate網站&lt;/h2&gt;
+<t tx="leo.20200818171215.1">&lt;section&gt;
+&lt;h2&gt;建立cmstemplate網站&lt;/h2&gt;
 &lt;p&gt;首先先到老師的網站下載&lt;em&gt;&lt;strong&gt;&lt;a href="https://drive.google.com/file/d/1R6vAAWdNDigmyvFFQTKyM-XNKOWeCFJU/view" rel="nofollow"&gt;kmol2021_spring_v2.7z&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;內包含最新版本的&lt;a href="https://www.python.org/"&gt;python3.9&lt;/a&gt;&amp;nbsp;最新版&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" height="249" src="https://40823151.github.io/cd2021/images/%E5%9C%96%E7%89%871.png" width="500"&gt;&lt;/p&gt;
@@ -282,8 +283,11 @@ vertical: body pane on the botton</t>
 &lt;p&gt;再去到小黑 打上下圖將其clone 下來&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" height="239" src="https://40823151.github.io/cd2021/images/%E5%9C%96%E7%89%877.png" width="500\"&gt;&lt;/p&gt;
 &lt;p&gt;即完成網站建構&lt;/p&gt;
+
+&lt;/section&gt;
 </t>
-<t tx="leo.20200818171244.1">&lt;h2&gt;建立ssh&lt;/h2&gt;
+<t tx="leo.20200818171244.1">&lt;section&gt;
+&lt;h2&gt;建立ssh&lt;/h2&gt;
 &lt;p&gt;首先將小黑編輯器打開並寫打上:&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="https://40823151.github.io/cd2021/images/ssh%201.png" width="500"&gt;&lt;/p&gt;
 &lt;p&gt;打上&amp;nbsp;&lt;/p&gt;
@@ -363,7 +367,9 @@ vertical: body pane on the botton</t>
 &lt;p&gt;設定Auth&lt;/p&gt;
 &lt;p&gt;設定SSH的&amp;nbsp;ppk private key (之前轉的APK)&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" height="450" src="https://40823151.github.io/cd2021/images/ssh%2019.png" width="500"&gt;&lt;/p&gt;
-&lt;p&gt;並且按下open後，就可以透過近端的 .ppk private key 與 Github.com 上的 public key 對應, 無需輸入帳號密碼就可以進行 git push&lt;/p&gt;</t>
+&lt;p&gt;並且按下open後，就可以透過近端的 .ppk private key 與 Github.com 上的 public key 對應, 無需輸入帳號密碼就可以進行 git push&lt;/p&gt;
+
+&lt;/section&gt;</t>
 <t tx="leo.20200818171312.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
     &lt;h2&gt;Auto-Animate&lt;/h2&gt;
     &lt;p&gt;Automatically animate matching elements across slides with &lt;a href="https://revealjs.com/auto-animate/"&gt;Auto-Animate&lt;/a&gt;.&lt;/p&gt;
