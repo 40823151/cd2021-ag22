@@ -394,9 +394,12 @@ vertical: body pane on the botton</t>
 &lt;p&gt;我們的想法是:把一張椅子變形成桌子，藉由摺疊的方式，自由變換型態。&lt;/p&gt;
 &lt;p&gt;中間遇到最大的問題是桌面的拼接方式以及中間的接合處間隙，我們從5種拼接方式中選擇&lt;/p&gt;
 &lt;p&gt;最合適且最好設計的形狀(在第三周顯示)，再來設計尺寸。&lt;/p&gt;</t>
-<t tx="leo.20200818194812.1">&lt;h1&gt;w3&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;成品最後測試及較驗&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;</t>
-<t tx="leo.20200818194840.1">&lt;h1&gt;成果&lt;/h1&gt;
+<t tx="leo.20200818194812.1">&lt;section&gt;
+&lt;h1&gt;w3&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;成品最後測試及較驗&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20200818194840.1">&lt;section&gt;
+&lt;h1&gt;成果&lt;/h1&gt;
 &lt;p&gt;這次我們的牛b產品不僅僅讓我們聊解到設計一項產品是多麼的不容易，也讓我們知道互相配合製作一項產品需要發揮各路人才的專長，經過日日夜夜的討論不一定有一個讓人滿意的結果，但在這時間內可以將產品定位做得如此完善也算是盡心盡力了，在這過程中也許有意見不合的地方，經過溝通與理解，不一定誰說的就一定是對的，將大家想到的想法接考慮進去，都是過程中不可或缺的一環&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;這次我們的產品開發製作的是多功能家具，照福了全大學生房間空間不夠的問題&lt;/p&gt;
@@ -409,9 +412,11 @@ vertical: body pane on the botton</t>
 &lt;p&gt;&lt;img alt="" height="533" src="https://40871106.github.io/cd2021/images/%E5%B1%95%E9%96%8B2.jpg" width="800"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" height="533" src="https://40871106.github.io/cd2021/images/%E5%B1%95%E9%96%8B1.jpg" width="800"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://youtu.be/Bipjcm-zMrM"&gt;支架動畫&lt;/a&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/Bipjcm-zMrM"&gt;&lt;/iframe&gt;&lt;/p&gt;</t>
-<t tx="leo.20200818194908.1">&lt;h2&gt;應力分析&lt;/h2&gt;</t>
-<t tx="leo.20200818194933.1">&lt;h2&gt;成品細節&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/Bipjcm-zMrM"&gt;支架動畫&lt;/a&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/Bipjcm-zMrM"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20200818194908.1">&lt;section&gt;&lt;h2&gt;應力分析&lt;/h2&gt;&lt;/section&gt;</t>
+<t tx="leo.20200818194933.1">&lt;section&gt;
+&lt;h2&gt;成品細節&lt;/h2&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" height="380" src="https://40871106.github.io/cd2021/images/%E7%B8%BD%E7%B5%84%E5%90%88.jpg" width="609"&gt;&lt;/p&gt;
 &lt;p&gt;上圖為本次設計結果!!&lt;/p&gt;
@@ -454,8 +459,10 @@ vertical: body pane on the botton</t>
 &lt;p&gt;&lt;span&gt;&lt;img alt="" height="485" src="https://40871106.github.io/cd2021/images/angle.jpg" width="696"&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;&lt;img alt="" height="516" src="https://40871106.github.io/cd2021/images/%E6%94%AF%E6%9E%B6%E5%90%88%E9%AB%94.jpg" width="416"&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;&lt;img alt="" height="416" src="https://40871106.github.io/cd2021/images/%E6%94%AF%E6%9E%B6%E5%B1%95%E9%96%8B%E5%9C%965.jpg" width="461"&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&lt;img alt="" height="492" src="https://40871106.github.io/cd2021/images/%E6%94%AF%E6%9E%B6%E5%B1%95%E9%96%8B%E5%9C%964.jpg" width="558"&gt;&lt;/span&gt;&lt;/p&gt;</t>
-<t tx="leo.20200818195039.1">&lt;h1&gt;進度&lt;/h1&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="492" src="https://40871106.github.io/cd2021/images/%E6%94%AF%E6%9E%B6%E5%B1%95%E9%96%8B%E5%9C%964.jpg" width="558"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20200818195039.1">&lt;section&gt;
+&lt;h1&gt;進度&lt;/h1&gt;
 &lt;p&gt;3月4日&lt;/p&gt;
 &lt;p&gt;討論基礎外型及功能&lt;/p&gt;
 &lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/2eFuVMeH0Es"&gt;&lt;/iframe&gt;3/5第一次大改版&lt;/p&gt;
@@ -465,7 +472,8 @@ vertical: body pane on the botton</t>
 &lt;p&gt;3月15號大討論&lt;/p&gt;
 &lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/lQrQgFjG58E"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;</t>
+&lt;p&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20200818195105.1">&lt;section&gt;
     &lt;p&gt;thank you watching&lt;/p&gt;
 &lt;/section&gt;
