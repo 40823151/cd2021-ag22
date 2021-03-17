@@ -232,35 +232,30 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170725.1">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
-    &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
-    &lt;/p&gt;
+   &lt;h1&gt;分工&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;網站經營 陳冠宇&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;產品設計 黃翊銘&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;技術總監 黃翊銘&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;品質管理 陳冠宇&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
-    &lt;h2&gt;Vertical Slides&lt;/h2&gt;
-    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
-    &lt;p&gt;Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#" class="navigate-down"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
-    &lt;/a&gt;
+  &lt;p&gt;設計理念&lt;/p&gt;
+
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 1&lt;/h2&gt;
-    &lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
+    &lt;h2&gt;opinion&lt;/h2&gt;
+    &lt;p&gt;由於現在台灣地價飆漲，百姓的生活空間受到壓迫，為了最大限度的節省空間，我們才想說做一個可以變形並且方便收納的多功能變形家具&lt;/p&gt;
+&lt;p&gt;我們最後選擇將椅子和桌子融合在一起，因為對於大學生來說要租到一間便宜，空間又大的房間，是可遇不可求的，魚和熊掌不可兼得的道理，基本上很難能兩全其美，所以既然空間不夠，那就將不必要的物品收起來，經過我們調查，很多時候我們其實只用的到一樣東西，不會同時需要使用，所以當今天有同學來家裡聊天就可以搬出我們設計的這款多功能變型家具，變成椅子讓客人坐，要是要做學術討論，將椅子變桌子一起討論，要是不用時又可以變成裝置藝術，簡直是一舉三得的好產品阿~~~(✿◕‿◕✿)&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 2&lt;/h2&gt;
-    &lt;p&gt;That's it, time to go back up.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#/2"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow"&gt;
-    &lt;/a&gt;
+    &lt;h2&gt;call us&lt;/h2&gt;
+    &lt;p&gt;還不快來贊助我們!!!&lt;/p&gt;
+    &lt;p&gt;phone NO. 0983625896&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
     &lt;h2 data-id="code-title"&gt;Pretty Code&lt;/h2&gt;
