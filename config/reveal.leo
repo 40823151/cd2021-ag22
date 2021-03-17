@@ -29,7 +29,8 @@
 <v t="leo.20200818195445.1"><vh>slide 20</vh>
 <v t="leo.20200818171138.1"><vh>slide 20-1 </vh></v>
 <v t="leo.20200818171215.1"><vh>slide 20-2</vh></v>
-<v t="leo.20200818171244.1"><vh>slide 20-3 </vh></v>
+<v t="leo.20200818195426.1"><vh>slide 20-3</vh></v>
+<v t="leo.20200818171244.1"><vh>slide 20-4</vh></v>
 </v>
 <v t="leo.20200818195147.1"><vh>slide 17</vh>
 <v t="leo.20200818194721.1"><vh>slide 11</vh></v>
@@ -49,7 +50,6 @@
 <v t="leo.20200818195323.1"><vh>slide 16-4</vh></v>
 <v t="leo.20200818195339.1"><vh>slide 16-5</vh></v>
 </v>
-<v t="leo.20200818195426.1"><vh>slide 19</vh></v>
 <v t="leo.20200818171312.1"><vh>slide 8</vh></v>
 <v t="leo.20200818171344.1"><vh>slide 9</vh></v>
 <v t="leo.20200818171412.1"><vh>slide 10</vh></v>
@@ -271,18 +271,7 @@ vertical: body pane on the botton</t>
 &lt;p&gt;內包含最新版本的&lt;a href="https://www.python.org/"&gt;python3.9&lt;/a&gt;&amp;nbsp;最新版&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" height="249" src="https://40823151.github.io/cd2021/images/%E5%9C%96%E7%89%871.png" width="500"&gt;&lt;/p&gt;
 &lt;p&gt;下載完後解壓縮&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="297" src="https://40823151.github.io/cd2021/images/%E5%9C%96%E7%89%872.png" width="500"&gt;&lt;/p&gt;
-&lt;p&gt;得到&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="34" src="https://40823151.github.io/cd2021/images/%E5%9C%96%E7%89%873.png" width="500"&gt;&lt;/p&gt;
-&lt;p&gt;將內文的.gitcofig拉到小白&amp;nbsp; 並且打上[user]&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="268" src="https://40823151.github.io/cd2021/images/%E5%9C%96%E7%89%876.png" width="500"&gt;&lt;/p&gt;
-&lt;p&gt;再去到老師的github倉儲&lt;a href="https://github.com/mdecourse/cmstemplate"&gt;mdecourse/cmstemplate&lt;/a&gt;建立一新的倉儲&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="281" src="https://40823151.github.io/cd2021/images/%E5%9C%96%E7%89%874.png" width="500"&gt;&lt;/p&gt;
-&lt;p&gt;建立好後去到setting將GitHub Pages的&lt;strong&gt;Source&amp;nbsp;&lt;/strong&gt;改成main 並儲存&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="233" src="https://40823151.github.io/cd2021/images/%E5%9C%96%E7%89%875.png" width="500"&gt;&lt;/p&gt;
-&lt;p&gt;再去到小黑 打上下圖將其clone 下來&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="239" src="https://40823151.github.io/cd2021/images/%E5%9C%96%E7%89%877.png" width="500\"&gt;&lt;/p&gt;
-&lt;p&gt;即完成網站建構&lt;/p&gt;
+
 
 &lt;/section&gt;
 </t>
@@ -540,14 +529,21 @@ vertical: body pane on the botton</t>
 &lt;section&gt;
     @others
 &lt;/section&gt;</t>
-<t tx="leo.20200818195426.1">&lt;section data-background-iframe="https://hakim.se" data-background-interactive&gt;
-    &lt;div style="position: absolute; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left;"&gt;
-        &lt;h2&gt;Iframe Backgrounds&lt;/h2&gt;
-        &lt;p&gt;Since reveal.js runs on the web, you can easily embed other web content. Try interacting with the page in the background.&lt;/p&gt;
-    &lt;/div&gt;
-&lt;/section&gt;
+<t tx="leo.20200818195426.1">&lt;section&gt;
+&lt;p&gt;&lt;img alt="" height="297" src="https://40823151.github.io/cd2021/images/%E5%9C%96%E7%89%872.png" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;得到&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="34" src="https://40823151.github.io/cd2021/images/%E5%9C%96%E7%89%873.png" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;將內文的.gitcofig拉到小白&amp;nbsp; 並且打上[user]&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="268" src="https://40823151.github.io/cd2021/images/%E5%9C%96%E7%89%876.png" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;再去到老師的github倉儲&lt;a href="https://github.com/mdecourse/cmstemplate"&gt;mdecourse/cmstemplate&lt;/a&gt;建立一新的倉儲&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="281" src="https://40823151.github.io/cd2021/images/%E5%9C%96%E7%89%874.png" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;建立好後去到setting將GitHub Pages的&lt;strong&gt;Source&amp;nbsp;&lt;/strong&gt;改成main 並儲存&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="233" src="https://40823151.github.io/cd2021/images/%E5%9C%96%E7%89%875.png" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;再去到小黑 打上下圖將其clone 下來&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="239" src="https://40823151.github.io/cd2021/images/%E5%9C%96%E7%89%877.png" width="500\"&gt;&lt;/p&gt;
+&lt;p&gt;即完成網站建構&lt;/p&gt;
 
-</t>
+&lt;/section&gt;</t>
 <t tx="leo.20200818195445.1">&lt;!-- Example of nested vertical slides --&gt;
 &lt;section&gt;
     @others
