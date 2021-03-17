@@ -259,10 +259,12 @@ vertical: body pane on the botton</t>
     &lt;p&gt;還不快來贊助我們!!!&lt;/p&gt;
     &lt;p&gt;phone NO. 0983625896&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20200818171138.1">&lt;h2&gt;w1&lt;/h2&gt;
+<t tx="leo.20200818171138.1">&lt;section&gt;
+&lt;h2&gt;w1&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;討論產品定位&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;建立個人及團隊網站&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;</t>
+&lt;p&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20200818171215.1">&lt;h2&gt;建立cmstemplate網站&lt;/h2&gt;
 &lt;p&gt;首先先到老師的網站下載&lt;em&gt;&lt;strong&gt;&lt;a href="https://drive.google.com/file/d/1R6vAAWdNDigmyvFFQTKyM-XNKOWeCFJU/view" rel="nofollow"&gt;kmol2021_spring_v2.7z&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;內包含最新版本的&lt;a href="https://www.python.org/"&gt;python3.9&lt;/a&gt;&amp;nbsp;最新版&lt;/p&gt;
