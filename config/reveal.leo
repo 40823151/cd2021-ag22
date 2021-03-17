@@ -45,7 +45,11 @@
 <v t="leo.20200818194908.1"><vh>slide 13-1</vh></v>
 </v>
 <v t="leo.20200818194840.1"><vh>slide 14</vh></v>
+<v t="leo.20200818195604.1"><vh>slide 24</vh>
 <v t="leo.20200818195039.1"><vh>slide 15</vh></v>
+<v t="leo.20200818195625.1"><vh>slide 25</vh></v>
+<v t="leo.20200818195643.1"><vh>slide 26</vh></v>
+</v>
 <v t="leo.20200818195105.1"><vh>slide 16</vh>
 <v t="leo.20200818195213.1"><vh>slide 16-1</vh></v>
 <v t="leo.20200818195237.1"><vh>slide 16-2</vh></v>
@@ -56,9 +60,6 @@
 <v t="leo.20200818171312.1"><vh>slide 8</vh></v>
 <v t="leo.20200818171344.1"><vh>slide 9</vh></v>
 <v t="leo.20200818171412.1"><vh>slide 10</vh></v>
-<v t="leo.20200818195604.1"><vh>slide 24</vh></v>
-<v t="leo.20200818195625.1"><vh>slide 25</vh></v>
-<v t="leo.20200818195643.1"><vh>slide 26</vh></v>
 <v t="leo.20200818195701.1"><vh>slide 27</vh></v>
 <v t="leo.20200818195715.1"><vh>slide 28</vh></v>
 <v t="leo.20200818195731.1"><vh>slide 29</vh></v>
@@ -477,13 +478,7 @@ vertical: body pane on the botton</t>
 &lt;p&gt;3月4日&lt;/p&gt;
 &lt;p&gt;討論基礎外型及功能&lt;/p&gt;
 &lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/2eFuVMeH0Es"&gt;&lt;/iframe&gt;3/5第一次大改版&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;3月10日雛形&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/Lk2_Mjmkmt0"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;3月15號大討論&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/lQrQgFjG58E"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
+
 &lt;/section&gt;</t>
 <t tx="leo.20200818195105.1">&lt;section&gt;
     &lt;p&gt;thank you watching&lt;/p&gt;
@@ -562,29 +557,20 @@ vertical: body pane on the botton</t>
 &lt;p&gt;最合適且最好設計的形狀(在第三周顯示)，再來設計尺寸。&lt;/p&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20200818195604.1">&lt;section&gt;
-    &lt;h2&gt;Intergalactic Interconnections&lt;/h2&gt;
-    &lt;p&gt;
-        You can link between slides internally,
-        &lt;a href="#/2/3"&gt;like this&lt;/a&gt;.
-    &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
+<t tx="leo.20200818195604.1">&lt;!-- Example of nested vertical slides --&gt;
+&lt;section&gt;
+    @others
+&lt;/section&gt;</t>
 <t tx="leo.20200818195625.1">&lt;section&gt;
-    &lt;h2&gt;Speaker View&lt;/h2&gt;
-    &lt;p&gt;There's a &lt;a href="https://revealjs.com/speaker-view/"&gt;speaker view&lt;/a&gt;. It includes a timer, preview of the upcoming slide as well as your speaker notes.&lt;/p&gt;
-    &lt;p&gt;Press the &lt;em&gt;S&lt;/em&gt; key to try it out.&lt;/p&gt;
+    &lt;p&gt;&lt;/p&gt;
+&lt;p&gt;3月10日雛形&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/Lk2_Mjmkmt0"&gt;&lt;/iframe&gt;&lt;/p&gt;
 
-    &lt;aside class="notes"&gt;
-        Oh hey, these are some notes. They'll be hidden in your presentation, but you can see them if you open the speaker notes window (hit 's' on your keyboard).
-    &lt;/aside&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818195643.1">&lt;section&gt;
-    &lt;h2&gt;Export to PDF&lt;/h2&gt;
-    &lt;p&gt;Presentations can be &lt;a href="https://revealjs.com/pdf-export/"&gt;exported to PDF&lt;/a&gt;, here's an example:&lt;/p&gt;
-    &lt;iframe data-src="https://www.slideshare.net/slideshow/embed_code/42840540" width="445" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt;
+    &lt;p&gt;3月15號大討論&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/lQrQgFjG58E"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;
 
 </t>
