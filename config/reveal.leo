@@ -26,12 +26,10 @@
 <v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
 </v>
 <v t="leo.20200818170725.1"><vh>slide 4</vh></v>
-<v t="leo.20200818171138.1"><vh>slide 5 </vh>
+<v t="leo.20200818195445.1"><vh>slide 20</vh>
+<v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
 <v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
-<v t="leo.20200818171312.1"><vh>slide 8</vh></v>
-<v t="leo.20200818171344.1"><vh>slide 9</vh></v>
-<v t="leo.20200818171412.1"><vh>slide 10</vh></v>
 </v>
 <v t="leo.20200818194721.1"><vh>slide 11</vh>
 <v t="leo.20200818194751.1"><vh>slide 12</vh></v>
@@ -52,7 +50,9 @@
 <v t="leo.20200818195147.1"><vh>slide 17</vh></v>
 <v t="leo.20200818195403.1"><vh>slide 18</vh></v>
 <v t="leo.20200818195426.1"><vh>slide 19</vh></v>
-<v t="leo.20200818195445.1"><vh>slide 20</vh></v>
+<v t="leo.20200818171312.1"><vh>slide 8</vh></v>
+<v t="leo.20200818171344.1"><vh>slide 9</vh></v>
+<v t="leo.20200818171412.1"><vh>slide 10</vh></v>
 <v t="leo.20200818195502.1"><vh>slide 21</vh></v>
 <v t="leo.20200818195520.1"><vh>slide 22</vh></v>
 <v t="leo.20200818195541.1"><vh>slide 23</vh></v>
@@ -265,7 +265,24 @@ vertical: body pane on the botton</t>
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;建立個人及團隊網站&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20200818171215.1"></t>
+<t tx="leo.20200818171215.1">&lt;h2&gt;建立cmstemplate網站&lt;/h2&gt;
+&lt;p&gt;首先先到老師的網站下載&lt;em&gt;&lt;strong&gt;&lt;a href="https://drive.google.com/file/d/1R6vAAWdNDigmyvFFQTKyM-XNKOWeCFJU/view" rel="nofollow"&gt;kmol2021_spring_v2.7z&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;內包含最新版本的&lt;a href="https://www.python.org/"&gt;python3.9&lt;/a&gt;&amp;nbsp;最新版&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="249" src="https://40823151.github.io/cd2021/images/%E5%9C%96%E7%89%871.png" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;下載完後解壓縮&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="297" src="https://40823151.github.io/cd2021/images/%E5%9C%96%E7%89%872.png" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;得到&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="34" src="https://40823151.github.io/cd2021/images/%E5%9C%96%E7%89%873.png" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;將內文的.gitcofig拉到小白&amp;nbsp; 並且打上[user]&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="268" src="https://40823151.github.io/cd2021/images/%E5%9C%96%E7%89%876.png" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;再去到老師的github倉儲&lt;a href="https://github.com/mdecourse/cmstemplate"&gt;mdecourse/cmstemplate&lt;/a&gt;建立一新的倉儲&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="281" src="https://40823151.github.io/cd2021/images/%E5%9C%96%E7%89%874.png" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;建立好後去到setting將GitHub Pages的&lt;strong&gt;Source&amp;nbsp;&lt;/strong&gt;改成main 並儲存&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="233" src="https://40823151.github.io/cd2021/images/%E5%9C%96%E7%89%875.png" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;再去到小黑 打上下圖將其clone 下來&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="239" src="https://40823151.github.io/cd2021/images/%E5%9C%96%E7%89%877.png" width="500\"&gt;&lt;/p&gt;
+&lt;p&gt;即完成網站建構&lt;/p&gt;
+</t>
 <t tx="leo.20200818171244.1">&lt;h2&gt;建立ssh&lt;/h2&gt;
 &lt;p&gt;首先將小黑編輯器打開並寫打上:&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="https://40823151.github.io/cd2021/images/ssh%201.png" width="500"&gt;&lt;/p&gt;
@@ -535,17 +552,10 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818195445.1">&lt;section&gt;
-    &lt;h2&gt;Marvelous List&lt;/h2&gt;
-    &lt;ul&gt;
-        &lt;li&gt;No order here&lt;/li&gt;
-        &lt;li&gt;Or here&lt;/li&gt;
-        &lt;li&gt;Or here&lt;/li&gt;
-        &lt;li&gt;Or here&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/section&gt;
-
-</t>
+<t tx="leo.20200818195445.1">&lt;!-- Example of nested vertical slides --&gt;
+&lt;section&gt;
+    @others
+&lt;/section&gt;</t>
 <t tx="leo.20200818195502.1">&lt;section&gt;
     &lt;h2&gt;Fantastic Ordered List&lt;/h2&gt;
     &lt;ol&gt;
