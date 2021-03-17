@@ -27,16 +27,18 @@
 </v>
 <v t="leo.20200818170725.1"><vh>slide 4</vh></v>
 <v t="leo.20200818195445.1"><vh>slide 20</vh>
-<v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
-<v t="leo.20200818171215.1"><vh>slide 6</vh></v>
-<v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
+<v t="leo.20200818171138.1"><vh>slide 20-1 </vh></v>
+<v t="leo.20200818171215.1"><vh>slide 20-2</vh></v>
+<v t="leo.20200818171244.1"><vh>slide 20-3 </vh></v>
 </v>
-<v t="leo.20200818194721.1"><vh>slide 11</vh>
+<v t="leo.20200818195147.1"><vh>slide 17</vh>
+<v t="leo.20200818194721.1"><vh>slide 11</vh></v>
 <v t="leo.20200818194751.1"><vh>slide 12</vh></v>
 </v>
-<v t="leo.20200818194812.1"><vh>slide 13</vh>
-<v t="leo.20200818194908.1"><vh>slide 13-1</vh></v>
+<v t="leo.20200818195403.1"><vh>slide 18</vh>
+<v t="leo.20200818194812.1"><vh>slide 13</vh></v>
 <v t="leo.20200818194933.1"><vh>slide 13-2</vh></v>
+<v t="leo.20200818194908.1"><vh>slide 13-1</vh></v>
 </v>
 <v t="leo.20200818194840.1"><vh>slide 14</vh></v>
 <v t="leo.20200818195039.1"><vh>slide 15</vh></v>
@@ -47,8 +49,6 @@
 <v t="leo.20200818195323.1"><vh>slide 16-4</vh></v>
 <v t="leo.20200818195339.1"><vh>slide 16-5</vh></v>
 </v>
-<v t="leo.20200818195147.1"><vh>slide 17</vh></v>
-<v t="leo.20200818195403.1"><vh>slide 18</vh></v>
 <v t="leo.20200818195426.1"><vh>slide 19</vh></v>
 <v t="leo.20200818171312.1"><vh>slide 8</vh></v>
 <v t="leo.20200818171344.1"><vh>slide 9</vh></v>
@@ -496,15 +496,10 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818195147.1">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
-    &lt;h2&gt;Background Transitions&lt;/h2&gt;
-    &lt;p&gt;
-        Different background transitions are available via the backgroundTransition option. This one's called "zoom".
-    &lt;/p&gt;
-    &lt;pre&gt;&lt;code class="hljs javascript"&gt;Reveal.configure({ backgroundTransition: 'zoom' })&lt;/code&gt;&lt;/pre&gt;
-&lt;/section&gt;
-
-</t>
+<t tx="leo.20200818195147.1">&lt;!-- Example of nested vertical slides --&gt;
+&lt;section&gt;
+    @others
+&lt;/section&gt;</t>
 <t tx="leo.20200818195213.1">&lt;section data-background="#dddddd"&gt;
     &lt;h2&gt;Slide Backgrounds&lt;/h2&gt;
     &lt;p&gt;
@@ -535,15 +530,10 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818195339.1">&lt;section data-background="http://i.giphy.com/90F8aUepslB84.gif"&gt;
     &lt;h2&gt;... and GIFs!&lt;/h2&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20200818195403.1">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
-    &lt;h2&gt;Background Transitions&lt;/h2&gt;
-    &lt;p&gt;
-        You can override background transitions per-slide.
-    &lt;/p&gt;
-    &lt;pre&gt;&lt;code class="hljs html" style="word-wrap: break-word;"&gt;&amp;lt;section data-background-transition="zoom"&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;/section&gt;
-
-</t>
+<t tx="leo.20200818195403.1">&lt;!-- Example of nested vertical slides --&gt;
+&lt;section&gt;
+    @others
+&lt;/section&gt;</t>
 <t tx="leo.20200818195426.1">&lt;section data-background-iframe="https://hakim.se" data-background-interactive&gt;
     &lt;div style="position: absolute; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left;"&gt;
         &lt;h2&gt;Iframe Backgrounds&lt;/h2&gt;
