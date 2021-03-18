@@ -517,11 +517,13 @@ vertical: body pane on the botton</t>
     @others
 &lt;/section&gt;</t>
 <t tx="leo.20200818195502.1">&lt;section&gt;
+&lt;p&gt;草稿&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" height="382" src="blob:https://localhost:9443/175ef010-e66b-4ef4-93a4-eb784c131483" width="511"&gt;&lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818195520.1">&lt;section&gt;
+&lt;p&gt;草稿&lt;/p&gt;
    &lt;p&gt;&lt;img alt="" height="520" src="blob:https://localhost:9443/5260bfc0-d3c6-420f-bbb2-1f8a1fa64854" width="337"&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
