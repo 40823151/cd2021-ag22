@@ -43,6 +43,7 @@
 <v t="leo.20200818194812.1"><vh>slide 13</vh></v>
 <v t="leo.20200818194933.1"><vh>slide 13-2</vh></v>
 <v t="leo.20200818195701.1"><vh>slide 27</vh></v>
+<v t="leo.20210318141923.1"><vh>newHeadline</vh></v>
 <v t="leo.20210318140128.1"><vh>newHeadline</vh></v>
 <v t="leo.20210318140155.1"><vh>newHeadline</vh></v>
 <v t="leo.20210318140155.2"><vh>newHeadline</vh></v>
@@ -667,6 +668,11 @@ console.log( '"customevent" has fired' );
 &lt;/section&gt;</t>
 <t tx="leo.20210318141307.1">&lt;section&gt;
 &lt;p&gt;&lt;a href="https://youtu.be/Bipjcm-zMrM"&gt;支架動畫&lt;/a&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/Bipjcm-zMrM"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318141923.1">&lt;section&gt;
+&lt;p&gt;第二件:連趕公件&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="460" src="https://40871106.github.io/cd2021/images/%E9%80%A3%E6%A1%BF%E5%85%AC%E4%BB%B6.jpg" width="329"&gt;&lt;/p&gt;
+
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
