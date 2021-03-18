@@ -42,6 +42,14 @@
 <v t="leo.20200818195403.1"><vh>slide 18</vh>
 <v t="leo.20200818194812.1"><vh>slide 13</vh></v>
 <v t="leo.20200818194933.1"><vh>slide 13-2</vh></v>
+<v t="leo.20200818195701.1"><vh>slide 27</vh></v>
+<v t="leo.20210318140128.1"><vh>newHeadline</vh></v>
+<v t="leo.20210318140155.1"><vh>newHeadline</vh></v>
+<v t="leo.20210318140155.2"><vh>newHeadline</vh></v>
+<v t="leo.20210318140155.3"><vh>newHeadline</vh></v>
+<v t="leo.20210318140155.4"><vh>newHeadline</vh></v>
+<v t="leo.20210318140156.1"><vh>newHeadline</vh></v>
+<v t="leo.20210318140156.2"><vh>newHeadline</vh></v>
 <v t="leo.20200818194908.1"><vh>slide 13-1</vh></v>
 </v>
 <v t="leo.20200818194840.1"><vh>slide 14</vh></v>
@@ -60,7 +68,6 @@
 <v t="leo.20200818171312.1"><vh>slide 8</vh></v>
 <v t="leo.20200818171344.1"><vh>slide 9</vh></v>
 <v t="leo.20200818171412.1"><vh>slide 10</vh></v>
-<v t="leo.20200818195701.1"><vh>slide 27</vh></v>
 <v t="leo.20200818195715.1"><vh>slide 28</vh></v>
 <v t="leo.20200818195731.1"><vh>slide 29</vh></v>
 <v t="leo.20200818195748.1"><vh>slide 30</vh></v>
@@ -575,12 +582,11 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818195701.1">&lt;section&gt;
-    &lt;h2&gt;Global State&lt;/h2&gt;
-    &lt;p&gt;
-        Set &lt;code&gt;data-state="something"&lt;/code&gt; on a slide and &lt;code&gt;"something"&lt;/code&gt;
-        will be added as a class to the document element when the slide is open. This lets you
-        apply broader style changes, like switching the page background.
-    &lt;/p&gt;
+&lt;p&gt;第一件:支架中心&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="447" src="https://40871106.github.io/cd2021/images/%E6%94%AF%E6%9E%B6%E4%B8%AD%E5%BF%83.jpg" width="369"&gt;&lt;/p&gt;
+&lt;p&gt;第二件:連趕公件&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="460" src="https://40871106.github.io/cd2021/images/%E9%80%A3%E6%A1%BF%E5%85%AC%E4%BB%B6.jpg" width="329"&gt;&lt;/p&gt;
+
 &lt;/section&gt;
 
 </t>
@@ -623,6 +629,54 @@ console.log( '"customevent" has fired' );
         - &lt;a href="https://slides.com"&gt;Try the online editor&lt;/a&gt; &lt;br&gt;
         - &lt;a href="https://github.com/hakimel/reveal.js"&gt;Source code &amp;amp; documentation&lt;/a&gt;
     &lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318140128.1">&lt;section&gt;
+&lt;p&gt;第三件:連桿母件&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="471" src="https://40871106.github.io/cd2021/images/%E9%80%A3%E6%A1%BF%E6%AF%8D%E4%BB%B6.jpg" width="386"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;第四件:接頭&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="331" src="https://40871106.github.io/cd2021/images/%E6%8E%A5%E9%A0%AD.jpg" width="395"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210318140155.1">&lt;section&gt;
+&lt;p&gt;&lt;span&gt;第五件:短銷&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="333" src="https://40871106.github.io/cd2021/images/%E7%9F%AD%E9%8A%B7.jpg" width="447"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;第六件:長銷&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="465" src="https://40871106.github.io/cd2021/images/%E9%95%B7%E9%8A%B7.jpg" width="425"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318140155.2">&lt;section&gt;
+&lt;p&gt;&lt;span&gt;第七件:滑塊&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="359" src="https://40871106.github.io/cd2021/images/%E7%95%AB%E5%A1%8A.jpg" width="447"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;第八件:桌板&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="357" src="https://40871106.github.io/cd2021/images/%E6%9D%BF%E6%9D%90%E5%85%B1%E5%90%8C%E9%AB%941.jpg" width="507"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318140155.3">&lt;section&gt;
+&lt;p&gt;&lt;span&gt;第九件:桌板&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="368" src="https://40871106.github.io/cd2021/images/%E6%9D%BF%E6%9D%90%E5%85%B1%E5%90%8C%E9%AB%942.jpg" width="532"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;第十件:主樑&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="513" src="https://40871106.github.io/cd2021/images/%E5%85%B1%E5%90%8C%E9%AB%941.jpg" width="411"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318140155.4">&lt;section&gt;
+&lt;p&gt;&lt;span&gt;第十一件:主樑&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="493" src="https://40871106.github.io/cd2021/images/%E5%85%B1%E5%90%8C%E9%AB%942.jpg" width="453"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;第十二件:螺釘(ISO M2x5)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="281" src="https://40871106.github.io/cd2021/images/ISO%20M2x5.jpg" width="357"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318140156.1">&lt;section&gt;
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;展開後的各個角度:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="458" src="https://40871106.github.io/cd2021/images/%E5%B1%95%E9%96%8B%E5%9C%961.jpg" width="517"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="499" src="https://40871106.github.io/cd2021/images/%E5%B1%95%E9%96%8B%E5%9C%963.jpg" width="520"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="437" src="https://40871106.github.io/cd2021/images/%E5%B1%95%E9%96%8B%E5%9C%962.jpg" width="513"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;桌面的拼接方式:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;從畫圈處看到，我們以錯開的方式接合&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="637" src="https://40871106.github.io/cd2021/images/%E9%B3%B3%E9%B3%B3.jpg" width="1174"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;支架合體&amp;amp;展開:&lt;/span&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318140156.2">
+&lt;p&gt;&lt;span&gt;連桿座之間的角度30度和60度，從上視圖看&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="485" src="https://40871106.github.io/cd2021/images/angle.jpg" width="696"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="516" src="https://40871106.github.io/cd2021/images/%E6%94%AF%E6%9E%B6%E5%90%88%E9%AB%94.jpg" width="416"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="416" src="https://40871106.github.io/cd2021/images/%E6%94%AF%E6%9E%B6%E5%B1%95%E9%96%8B%E5%9C%965.jpg" width="461"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt="" height="492" src="https://40871106.github.io/cd2021/images/%E6%94%AF%E6%9E%B6%E5%B1%95%E9%96%8B%E5%9C%964.jpg" width="558"&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
