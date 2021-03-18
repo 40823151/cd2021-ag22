@@ -433,7 +433,7 @@ vertical: body pane on the botton</t>
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://youtu.be/Bipjcm-zMrM"&gt;支架動畫&lt;/a&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/Bipjcm-zMrM"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20200818194908.1">&lt;section&gt;&lt;h2&gt;應力分析&lt;/h2&gt;&lt;/section&gt;</t>
+<t tx="leo.20200818194908.1">&lt;section&gt;&lt;p&gt;應力分析&lt;/p&gt;&lt;/section&gt;</t>
 <t tx="leo.20200818194933.1">&lt;section&gt;
 &lt;h2&gt;成品細節&lt;/h2&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -671,7 +671,7 @@ console.log( '"customevent" has fired' );
 &lt;p&gt;&lt;span&gt;&lt;img alt="" height="637" src="https://40871106.github.io/cd2021/images/%E9%B3%B3%E9%B3%B3.jpg" width="1174"&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;支架合體&amp;amp;展開:&lt;/span&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20210318140156.2">
+<t tx="leo.20210318140156.2">&lt;section&gt;
 &lt;p&gt;&lt;span&gt;連桿座之間的角度30度和60度，從上視圖看&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;&lt;img alt="" height="485" src="https://40871106.github.io/cd2021/images/angle.jpg" width="696"&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;&lt;img alt="" height="516" src="https://40871106.github.io/cd2021/images/%E6%94%AF%E6%9E%B6%E5%90%88%E9%AB%94.jpg" width="416"&gt;&lt;/span&gt;&lt;/p&gt;
