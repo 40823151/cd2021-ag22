@@ -226,10 +226,8 @@ vertical: body pane on the botton</t>
     @others
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
-        &lt;section&gt;
-&lt;p&gt;&lt;img alt="" height="200" src="https://40871106.github.io/cd2021/images/%E5%90%88%E9%AB%942.jpg" width="200"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="400" src="https://40871106.github.io/cd2021/images/%E5%90%88%E9%AB%942.jpg" width="400"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;/section&gt;
     &lt;/a&gt;
     &lt;h3&gt;陳冠宇與黃翊銘的網站&lt;/h3&gt;
     &lt;p&gt;
